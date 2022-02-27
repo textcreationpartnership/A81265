@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Algernon Sidney Esq; as it appeared before the committee, Nov. 10th.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81265</idno>
+            <idno type="STC">Wing C875aA</idno>
+            <idno type="STC">ESTC R173433</idno>
+            <idno type="EEBO-CITATION">47683423</idno>
+            <idno type="OCLC">ocm 47683423</idno>
+            <idno type="VID">172772</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81265)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172772)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2649:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Algernon Sidney Esq; as it appeared before the committee, Nov. 10th.</title>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>ca. 1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sidney, Algernon, 1622-1683.</term>
+               <term>England and Wales. --  Parliament. --  House of Commons --  Contested elections.</term>
+               <term>Contested elections z England --  Early works to 1800.</term>
+               <term>Bribery --  England.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:172772:1" rendition="simple:additions"/>
+            <head>
+               <hi>The</hi> CASE <hi>of</hi> Algernon Sidney <hi>Eſq as it ap<g ref="char:EOLhyphen"/>peared before the Committee,</hi> Novemb. 10<hi rend="sup">th.</hi>
+            </head>
+            <p>
+               <hi>AGmondeſham</hi> is an ancient Borough, but for the ſpace of near 200 years had ſent no Burgeſſes to Parliament untill the year 1640.</p>
+            <p>Mr. <hi>Sydney</hi> believing, that of common Right thoſe only ought to have Voices in Elections who pay Scot and Lot, unleſs there were Preſcription to the contrary (which a Uſage of Forty years if ad<g ref="char:EOLhyphen"/>mitted cannot make) or the Caſe had been judged by the Houſe, did by his Council deſire the Opinion of the Committee thereupon; and the Committee did judge that none ought to have Voices but the Inhabitants paying Scot and Lot.</p>
+            <p>This point being determin'd, it was not neceſſary for Mr. <hi>Sid<g ref="char:EOLhyphen"/>ney</hi> to inſiſt upon the Poll taken by <hi>Humphry Gardiner,</hi> (who took it by the appointment of <hi>Francis Child</hi> Conſtable, and had taken all the Polls that had been within Thirty years laſt paſt) nor that which was taken by Mr. <hi>Henry Danvers</hi> perfectly agreeing with it, whereby it did appear, that all the Houſholders being admitted, he had 74, and Sir <hi>William Drake</hi> had but 64 Voices; and there<g ref="char:EOLhyphen"/>fore for the eaſe of the Committee he did admit of the Poll taken by Sir <hi>William</hi>'s Agents. Whereupon it did appear, that Mr. <hi>Sid<g ref="char:EOLhyphen"/>ney</hi> had Thirty nine Voices proved to be good; and of thoſe re<g ref="char:EOLhyphen"/>maining who paid Scot and Lot, there were but Twenty eight to vote for Sir <hi>William,</hi> though none had been liable to exceptions.</p>
+            <p>This being plain, Sir <hi>Williams</hi> Council accuſed Mr. <hi>Sidney</hi> of Bribery, and for proof of it, produced <hi>John Clerk,</hi> a poor Labour<g ref="char:EOLhyphen"/>er; who ſaid, that the day before the Election, Mr. <hi>Sidney</hi> in the preſence of many had told him, that at preſent he could do no<g ref="char:EOLhyphen"/>thing for him, but after the Election he would give him Satisfacti<g ref="char:EOLhyphen"/>on: That about a Month after, <hi>Richard Norwood</hi> Overſeer of the Poor, who had voted for Mr. <hi>Sidney,</hi> gave him a Noble, and that others who had alſo voted for him, ſaid, that <hi>Norwood</hi> had given a Noble to each of them.</p>
+            <p>
+               <hi>Clerk</hi> and <hi>Harwood</hi> ſaid, one <hi>Luffeman</hi> who had voted for Mr. <hi>Sidney</hi> told them, <hi>Norwood</hi> had given him a Suit of Cloaths.</p>
+            <p>
+               <hi>Harwood</hi> and <hi>Gillmer</hi> ſaid, that about a Month after the Election, Nobles apiece were delivered to divers of the Inhabitants by <hi>Rich. Norwood;</hi> and all three confeſſed they heard of no other Moneys given.</p>
+            <p>
+               <hi>Rich. Bachelor</hi> ſaid <hi>Leered</hi> told him, Mr. <hi>Sidney</hi> had given him Money after the Election.</p>
+            <p>It was alſo ſaid, that ſome of thoſe who were for Mr. <hi>Sidney</hi> had ſcandalized Sir <hi>William,</hi> ſaying, he was a Papiſt and a Pen<g ref="char:EOLhyphen"/>ſioner.</p>
+            <div type="text">
+               <pb n="2" facs="tcp:172772:2" rendition="simple:additions"/>
+               <head>In Anſwer to theſe Calumnies,</head>
+               <p>Mr. <hi>Tanner</hi> and <hi>Rich. Norwood,</hi> men of Credit, proved, that <hi>John Clerk</hi> had often deſir'd to ſpeak with them before the Election; which they, knowing him to be a dangerous fellow, refuſed, unleſs it were in the preſence of three or four Witneſſes, and that he did tell them, large Offers were made to him by Sir <hi>William</hi> if he would Vote for him; that he had a Letter from him to that purpoſe; that he knew enough to overthrow Sir <hi>Williams</hi> Election, though he had Twenty Votes more than Mr. <hi>Sidney;</hi> and would make the beſt of his Market.</p>
+               <p>They alſo ſay, that ſince the Election he affirmed, that he had given his Vote for Mr. <hi>Sidney</hi> freely, and that neither Mr. <hi>Sidney</hi> nor any other on his behalf had ſpoken to him for it.</p>
+               <p>Coll. <hi>Danvers</hi> and Mr. <hi>Halford</hi> Merchant of <hi>London,</hi> prove, that they were preſent when <hi>Clerk</hi> and ſeveral others came to offer their Votes to Mr. <hi>Sidney,</hi> and that he told them he would ſerve the Town and Countrey as well as he could, and hoped it would be to their ſatisfaction; but no mention was made of any Money or Perſonal Reward.</p>
+               <p>They alſo prove, that the day after the Election, Mr. <hi>Sidney</hi> being to return to <hi>London,</hi> many poor People came about his Coach, beg<g ref="char:EOLhyphen"/>ing of him; and he being told it was a thing decent and cuſto<g ref="char:EOLhyphen"/>mary to give ſomething to them, did firſt oppoint Five pounds, and afterwards Five Pounds more to be given to them, which ac<g ref="char:EOLhyphen"/>cordingly was put into the hands of <hi>Rich. Norwood,</hi> Overſeer of the Poor, to be diſtributed amongſt them.</p>
+               <p>
+                  <hi>Richard Norwood</hi> Overſeer, and <hi>James</hi> his Son ſay, they did re<g ref="char:EOLhyphen"/>ceive Ten Pounds by Mr. <hi>Sidney</hi>'s Order, and did diſtribute it pub<g ref="char:EOLhyphen"/>lickly to ſuch as were Poor men, paying no Scot or Lot, and had voted for the moſt part for Mr. <hi>Sidney;</hi> but that they had done it on their own heads, without any Order's or Intimation from Coll. <hi>Sidney</hi> directly or indirectly to diſpoſe of it otherwiſe than to the Poor of the Burrough.</p>
+               <p>
+                  <hi>Norwood</hi> further ſays, <hi>Luffeman</hi> had never any Cloaths from him in four years before the Election, nor at any time ſince, nor ever by Order from Mr. <hi>Sidney.</hi>
+               </p>
+               <p>
+                  <hi>Tho. Petit</hi> ſays, <hi>Horwood</hi> an Innkeeper deſir'd him not to give Evidence for Mr. <hi>Sidney,</hi> becauſe they ſhould get Money by a new Election, if his could be made void.</p>
+               <p>As to the reproachful Language againſt Sir. <hi>William Drake,</hi> Mr. <hi>Sidney</hi> ſayes, that he cannot rule other mens Tongues; that he no wayes approves of the Licence uſually taken in ſuch Caſes by uſing ill Language; that Sir <hi>William</hi> muſt ſuffer that, as well as others: And if the Committee had not appear'd to be weary, he could have proved ſuch Language was then and ſtill is uſed of him<g ref="char:EOLhyphen"/>ſelf every day by Sir <hi>William</hi> himſelf and others, his Friends and Agents, which neither he nor they, as he believes, <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> undertake to make good.</p>
+               <p>Mr. <hi>Sidney</hi> proved by ſeveral witneſſes, that Sir <hi>William</hi> and his Servants had endeavoured to deterr <hi>Tho. Ley, Charſely, Petit, Tench</hi>
+                  <pb n="3" facs="tcp:172772:2" rendition="simple:additions"/>and others, from voting againſt him, by threatning to pull down their houſes, or vexing them with ſuits; which having been done before the Election, hath been executed ſince the Election.</p>
+               <p>Hereupon Mr. <hi>Sidney</hi> deſires it may be obſerved,</p>
+               <p n="1">1. That the Ten pounds which he appointed to be given in the pre<g ref="char:EOLhyphen"/>ſence of many that begged of him, and to be put into the hands of the Overſeer of the Poor, cannot be underſtood otherwiſe than that he deſigned it to be diſtributed unto ſuch Poor only as then begged of him, and were under the care of the ſaid Overſeer.</p>
+               <p n="2">2. That it was after the Election openly promis'd, and publick<g ref="char:EOLhyphen"/>ly diſtributed.</p>
+               <p n="3">3. <hi>Clerk</hi> only pretending a Promiſe in obſcure words, no wayes agreeing with the Teſtimony of Coll. <hi>Danvers</hi> and Mr. <hi>Halford,</hi> men of Reputation, nor juſtified by any others that were then preſent, though he ſaid there were many; and his undue practices teſtified by <hi>Tanner</hi> and <hi>Norwood,</hi> ſhew that he no way deſerves to be credited.</p>
+               <p n="4">4. It is not pretended, that any one man paying Scot or Lot, received a Penny, and though Mr. <hi>Sidney</hi> could not hinder ſuch as did not pay, to give Votes, he did think they ought to have none, and upon his Motion it was ſo judged by the Committee.</p>
+               <p n="5">5. Whatſoever the deſtribution of that Mony was, he is not to anſwer for it, it having been done not only without but contrary to his Direction, as is confeſſed by <hi>Richard Norwood</hi> who was truſt<g ref="char:EOLhyphen"/>ed with it.</p>
+               <p>And Mr. <hi>Sydney</hi> doth further affirm as in the preſence of God, (as he would have done to the Committee, had he not been told it was unuſual for any perſon to ſpeak there except by his Councel) that he never did intend it ſhould be otherwiſe diſpoſed of than as Alms to the Poor that then begged of him, and ſuch others who took Alms and did not pretend to have Voices; and he never know, heard, or imagin'd it had been otherwiſe diſpoſed of, till upon the Evi<g ref="char:EOLhyphen"/>dence before the Committee it did appear to be ſo. And Mr. <hi>Sydney</hi> is ready, if it be required, to produce his Servant who gave the 10 <hi>l.</hi> to the Overſeer of the Poor, and ſeveral others whom he did not ſummon before the Committee, becauſe he had no reaſon to believe any Objection could or would have been made againſt him for his ſaid Charity, that can and will prove Mr. <hi>Sydney</hi>'s di<g ref="char:EOLhyphen"/>rections for the diſtribution of the ſaid 10 <hi>l.</hi> were ſuch as he hath before alledged; and therefore he humbly hopes that the in<g ref="char:EOLhyphen"/>diſcreet or unfaithful diſpoſal of his Charity by the Overſeer of the Poor, ſhall not reflect upon him, or prejudice his Cauſe.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
